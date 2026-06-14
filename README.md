@@ -24,6 +24,47 @@ Flask Machine Learning API
     ▼
 Prediction Endpoint (/predict)
 ```
+## Project Plan
+
+### Trello Board
+
+Trello Board Link:
+
+```text
+Add your Trello board URL here
+```
+
+### Project Schedule Spreadsheet
+
+Spreadsheet Link:
+
+```text
+Add your Google Sheets or Excel file link here
+```
+
+### Estimated Timeline
+
+| Week   | Deliverable                                | Difficulty |
+| ------ | ------------------------------------------ | ---------- |
+| Week 1 | Repository setup and project scaffolding   | Easy       |
+| Week 2 | Continuous Integration with GitHub Actions | Medium     |
+| Week 3 | Azure App Service deployment               | Medium     |
+| Week 4 | Continuous Delivery and testing            | Medium     |
+| Week 5 | Documentation, screenshots, and demo video | Easy       |
+
+### Quarterly Goals
+
+* Complete Azure DevOps CI/CD project
+* Improve cloud deployment skills
+* Gain experience with GitHub Actions
+* Build a portfolio-ready DevOps project
+
+### Yearly Goals
+
+* Develop advanced Azure DevOps skills
+* Build production-ready CI/CD pipelines
+* Learn Infrastructure as Code tools
+* Strengthen Cloud Engineering and Data Engineering expertise
 
 ### Workflow
 
