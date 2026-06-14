@@ -73,8 +73,6 @@ Prediction Endpoint (/predict)
 
 ## Project Plan
 
-### Trello Board
-
 ## Trello Board
 https://trello.com/invite/b/6a2eea35984e85e7b1c28e65/ATTIa8d8ef711224519d77c5d40ed3948580AAAF1462/azure-ci-cd-flask-ml-application
 ---
@@ -204,7 +202,7 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 YouTube Demo Link:
 
-Add your YouTube video URL here after recording.
+https://youtu.be/fguLqoBh55A
 
 The demo video demonstrates:
 
