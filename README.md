@@ -34,6 +34,8 @@ The project showcases automated testing, linting, deployment, monitoring, and cl
 * Demonstrate DevOps best practices for CI/CD workflows.
 
 ---
+## Trello Board
+https://trello.com/invite/b/6a2eea35984e85e7b1c28e65/ATTIa8d8ef711224519d77c5d40ed3948580AAAF1462/azure-ci-cd-flask-ml-application
 
 ## Architecture Diagram
 
