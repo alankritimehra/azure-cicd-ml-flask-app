@@ -1,2 +1,4 @@
-pylint
+Flask
 pytest
+pylint
+gunicorn
