@@ -184,19 +184,19 @@ http://flaskml-alankriti-300374.azurewebsites.net
 ## Screenshots
 
 ### GitHub Actions
-![GitHub Actions](screenshots/github-actions.png)
+![GitHub Actions](./screenshots/github-actions.png)
 
 ### Cloud Shell Testing
-![Cloud Shell](screenshots/cloud-shell.png)
+![Cloud Shell](./screenshots/cloud-shell.png)
 
 ### Prediction Output
-![Prediction](screenshots/prediction.png)
+![Prediction](./screenshots/prediction.png)
 
 ### Log Streaming
-![Logs](screenshots/logs.png)
+![Logs](./screenshots/logs.png)
 
 ### Trello Board
-![Trello Board](screenshots/trello-board.png)
+![Trello Board](./screenshots/trello-board.png)
 
 ## Demo Video
 
