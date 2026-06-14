@@ -192,52 +192,20 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ## Screenshots
 
-### Project Cloned in Azure Cloud Shell
+### GitHub Actions
+![GitHub Actions](screenshots/github-actions.png)
 
-Add screenshot showing repository cloned in Azure Cloud Shell.
+### Cloud Shell Testing
+![Cloud Shell](screenshots/cloud-shell.png)
 
-### Successful Local Testing
+### Prediction Output
+![Prediction](screenshots/prediction.png)
 
-Add screenshot showing:
+### Log Streaming
+![Logs](screenshots/logs.png)
 
-```text
-test_app.py::test_home PASSED
-test_app.py::test_predict PASSED
-```
-
-### Successful GitHub Actions Build
-
-Add screenshot showing successful GitHub Actions workflow execution.
-
-### Azure App Service Deployment
-
-Add screenshot showing successful Azure deployment and web app URL.
-
-### Successful Prediction
-
-Add screenshot showing:
-
-```json
-{"prediction":[19.7969]}
-```
-
-### Azure Log Streaming
-
-Add screenshot showing:
-
-```text
-POST /predict HTTP/1.1" 200
-```
-
-### Azure CLI Commands
-
-Add screenshot showing:
-
-```bash
-cat commands.sh
-```
-
----
+### Trello Board
+![Trello Board](screenshots/trello-board.png)
 
 ## Demo Video
 
