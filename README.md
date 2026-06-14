@@ -25,6 +25,69 @@ Flask Machine Learning API
 Prediction Endpoint (/predict)
 ```
 ## Project Plan
+## Instructions to Run the Project
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/alankritimehra/azure-cicd-ml-flask-app.git
+cd azure-cicd-ml-flask-app
+```
+
+### Create Virtual Environment
+
+```bash
+python3 -m venv ~/.azure-cicd-ml
+source ~/.azure-cicd-ml/bin/activate
+```
+
+### Install Dependencies
+
+```bash
+make install
+```
+
+### Run Tests
+
+```bash
+make test
+```
+
+### Run Linting
+
+```bash
+make lint
+```
+
+### Run All Checks
+
+```bash
+make all
+```
+
+### Deploy to Azure App Service
+
+```bash
+az webapp up \
+--name flaskml-alankriti-300374 \
+--resource-group Azuredevops \
+--runtime "PYTHON:3.10" \
+--sku F1
+```
+
+### Make Prediction
+
+```bash
+./make_predict_azure_app.sh
+```
+
+### View Logs
+
+```bash
+az webapp log tail \
+--name flaskml-alankriti-300374 \
+--resource-group Azuredevops
+```
 
 ### Trello Board
 
