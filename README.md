@@ -36,6 +36,9 @@ The project showcases automated testing, linting, deployment, monitoring, and cl
 ---
 ## Trello Board
 https://trello.com/invite/b/6a2eea35984e85e7b1c28e65/ATTIa8d8ef711224519d77c5d40ed3948580AAAF1462/azure-ci-cd-flask-ml-application
+---
+## Project Schedule
+https://docs.google.com/spreadsheets/d/12L3rrz9GPI3AFN1WXdP5vDs-niGTTi8M2Ey31wGHn1A/edit?usp=sharing
 
 ## Architecture Diagram
 
