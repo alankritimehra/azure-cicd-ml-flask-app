@@ -202,7 +202,7 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ### Local Continuous Integration in Azure Cloud Shell
 
-![Cloud Shell Testing](./screenshots/Local%20CI%20in%20Cloud%20Shell.png)
+![Local Continuous Integration](./screenshots/Local%20CI%20in%20Cloud%20Shell.png)
 
 ### Successful Prediction Output
 
@@ -211,6 +211,11 @@ http://flaskml-alankriti-300374.azurewebsites.net
 ### Trello Board
 
 ![Trello Board](./screenshots/trello-board.png)
+
+### Udacity Packer Image
+
+![Udacity Packer Image](./screenshots/udacityPackerImage.png)
+
 
 
 ## Demo Video
