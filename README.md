@@ -1,3 +1,4 @@
+![Python application test with Github Actions](https://github.com/alankritimehra/azure-cicd-ml-flask-app/actions/workflows/pythonapp.yml/badge.svg)
 # Azure CI/CD Pipeline for a Flask Machine Learning Application
 
 ## Overview
