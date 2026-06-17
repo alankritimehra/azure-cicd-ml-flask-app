@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Azure CI/CD Flask ML App is running!"
+    return "Azure CI/CD Flask ML App is running! Continuous Delivery Success"
 
 
 @app.route("/predict", methods=["POST"])
