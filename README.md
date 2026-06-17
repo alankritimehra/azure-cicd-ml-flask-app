@@ -184,11 +184,21 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ## Screenshots
 
-### GitHub Actions
-![GitHub Actions](./screenshots/github-actions.png)
+### GitHub Actions Badge
 
-### Cloud Shell Testing
-![Cloud Shell](./screenshots/cloud-shell.png)
+![GitHub Actions Badge](./screenshots/GitHub Actions badge.png)
+
+### Azure Pipelines Deployment
+
+![Azure Pipelines Deployment](./screenshots/Continuous Delivery.png)
+
+### Azure App Service
+
+![Azure App Service](./screenshots/AZURE CD SUCCESS.png)
+
+### Local Continuous Integration in Azure Cloud Shell
+
+![Cloud Shell Testing](./screenshots/Local CI in Cloud Shell.png)
 
 ### Prediction Output
 ![Prediction](./screenshots/prediction.png)
