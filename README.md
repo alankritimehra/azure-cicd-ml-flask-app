@@ -186,28 +186,32 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ### GitHub Actions Badge
 
-![GitHub Actions Badge](./screenshots/GitHub Actions badge.png)
+![GitHub Actions Badge](./screenshots/GitHub%20Actions%20badge.png)
+
+### GitHub Actions Workflow Run
+
+![GitHub Actions Workflow Run](./screenshots/GitHub%20Actions%20workflow%20ran.png)
 
 ### Azure Pipelines Deployment
 
-![Azure Pipelines Deployment](./screenshots/Continuous Delivery.png)
+![Azure Pipelines Deployment](./screenshots/Continuous%20Delivery.png)
 
 ### Azure App Service
 
-![Azure App Service](./screenshots/AZURE CD SUCCESS.png)
+![Azure App Service](./screenshots/AZURE%20CD%20SUCCESS.png)
 
 ### Local Continuous Integration in Azure Cloud Shell
 
-![Cloud Shell Testing](./screenshots/Local CI in Cloud Shell.png)
+![Cloud Shell Testing](./screenshots/Local%20CI%20in%20Cloud%20Shell.png)
 
-### Prediction Output
-![Prediction](./screenshots/prediction.png)
+### Successful Prediction Output
 
-### Log Streaming
-![Logs](./screenshots/logs.png)
+![Prediction Output](./screenshots/PREDICTION.png)
 
 ### Trello Board
+
 ![Trello Board](./screenshots/trello-board.png)
+
 
 ## Demo Video
 
