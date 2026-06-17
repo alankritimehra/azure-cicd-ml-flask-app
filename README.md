@@ -179,7 +179,8 @@ az webapp log tail \
 ```text
 http://flaskml-alankriti-300374.azurewebsites.net
 ```
-
+- Code change reflected on Azure App Service
+- Continuous Delivery demonstration
 ---
 
 ## Screenshots
