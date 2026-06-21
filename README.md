@@ -203,8 +203,7 @@ http://flaskml-alankriti-300374.azurewebsites.net
 ![GitHub Actions Workflow Run](./screenshots/GitHub%20Actions%20workflow%20ran.png)
 
 ### Azure App Service Running
-
-![Azure App Service Running](./screenshots/flaskml-alankriti-300374%20Azuredevops%20Running.png)
+![Azure App Service Running](screenshots/flaskml-alankriti-300374%20Azuredevops%20Running.png)
 
 ### Successful Prediction JSON Output
 
