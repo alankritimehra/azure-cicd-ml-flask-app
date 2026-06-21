@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 PORT=443
-APP_NAME="YOUR_APP_NAME"
+APP_NAME="flaskml-alankriti-300374"
 
 echo "Port: $PORT"
 
