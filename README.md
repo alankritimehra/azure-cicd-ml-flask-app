@@ -185,6 +185,16 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ## Screenshots
 
+## Screenshots
+
+### Project cloned into Azure Cloud Shell
+
+![Project cloned into Azure Cloud Shell](./screenshots/Project%20cloned%20into%20Azure%20Cloud%20Shell.png)
+
+### Local Continuous Integration in Azure Cloud Shell
+
+![Local CI in Cloud Shell](./screenshots/Local%20CI%20in%20Cloud%20Shell.png)
+
 ### GitHub Actions Badge
 
 ![GitHub Actions Badge](./screenshots/GitHub%20Actions%20badge.png)
@@ -193,21 +203,13 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ![GitHub Actions Workflow Run](./screenshots/GitHub%20Actions%20workflow%20ran.png)
 
-### Azure Pipelines Deployment
+### Azure App Service Running
 
-![Azure Pipelines Deployment](./screenshots/Continuous%20Delivery.png)
+![Azure App Service Running](./screenshots/flaskml-alankriti-300374%20Azuredevops%20Running.png)
 
-### Azure App Service
+### Successful Prediction JSON Output
 
-![Azure App Service](./screenshots/AZURE%20CD%20SUCCESS.png)
-
-### Local Continuous Integration in Azure Cloud Shell
-
-![Local Continuous Integration](./screenshots/Local%20CI%20in%20Cloud%20Shell.png)
-
-### Successful Prediction Output
-
-![Prediction Output](./screenshots/PREDICTION.png)
+![Successful Prediction](./screenshots/Successful%20prediction%20JSON%20screenshot.png)
 
 ### Trello Board
 
@@ -216,6 +218,10 @@ http://flaskml-alankriti-300374.azurewebsites.net
 ### Udacity Packer Image
 
 ![Udacity Packer Image](./screenshots/udacityPackerImage.png)
+
+### Azure Pipelines Deployment
+
+![Azure Pipelines Deployment](./screenshots/YourAzurePipelineScreenshot.png)
 
 
 
