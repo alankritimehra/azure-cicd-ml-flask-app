@@ -219,9 +219,11 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ![Udacity Packer Image](./screenshots/udacityPackerImage.png)
 
-### Azure Pipelines Deployment
 
-![Azure Pipelines Deployment](./screenshots/YourAzurePipelineScreenshot.png)
+
+### Azure App Service Running
+
+![Azure App Service Running](./screenshots/flaskml-alankriti-300374%20Azuredevops%20Running.png)
 
 
 
