@@ -185,15 +185,14 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ## Screenshots
 
-## Screenshots
 
-### Project cloned into Azure Cloud Shell
+### Project Cloned into Azure Cloud Shell
 
-![Project cloned into Azure Cloud Shell](./screenshots/Project%20cloned%20into%20Azure%20Cloud%20Shell.png)
+![Project Cloned into Azure Cloud Shell](./screenshots/Project%20cloned%20into%20Azure%20Cloud%20Shell.png)
 
-### Local Continuous Integration in Azure Cloud Shell
+### Local Continuous Integration (make all)
 
-![Local CI in Cloud Shell](./screenshots/Local%20CI%20in%20Cloud%20Shell.png)
+![Local Continuous Integration](./screenshots/make%20all.png)
 
 ### GitHub Actions Badge
 
@@ -209,7 +208,7 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 ### Successful Prediction JSON Output
 
-![Successful Prediction](./screenshots/Successful%20prediction%20JSON%20screenshot.png)
+![Successful Prediction JSON Output](./screenshots/Successful%20prediction%20JSON%20screenshot.png)
 
 ### Trello Board
 
@@ -218,12 +217,6 @@ http://flaskml-alankriti-300374.azurewebsites.net
 ### Udacity Packer Image
 
 ![Udacity Packer Image](./screenshots/udacityPackerImage.png)
-
-
-
-### Azure App Service Running
-
-![Azure App Service Running](./screenshots/flaskml-alankriti-300374%20Azuredevops%20Running.png)
 
 
 
