@@ -1,4 +1,3 @@
-cat > commands.sh <<'EOF'
 #!/usr/bin/env bash
 
 # Create and deploy Azure Web App
@@ -19,6 +18,3 @@ az webapp show \
 az webapp log tail \
   --name flaskml-alankriti-300374 \
   --resource-group Azuredevops
-EOF
-
-chmod +x commands.sh
