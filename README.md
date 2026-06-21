@@ -157,7 +157,11 @@ az webapp up \
 --runtime "PYTHON:3.10" \
 --sku F1
 ```
+### Azure Pipelines Configuration
 
+The repository includes an `azure-pipelines.yml` file for Azure Pipelines CI/CD configuration. During this lab session, Azure DevOps organization access was unavailable from the Udacity sandbox account, so the application was deployed and verified through Azure CLI using `az webapp up`.
+
+The deployed Azure App Service and successful prediction JSON output are shown below.
 ### Make Prediction
 
 ```bash
