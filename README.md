@@ -227,7 +227,7 @@ http://flaskml-alankriti-300374.azurewebsites.net
 
 YouTube Demo Link:
 
-https://youtu.be/fguLqoBh55A](https://youtu.be/UGZuPwxnfwc)
+https://youtu.be/a1-lgy4w1Wc
 
 The demo video demonstrates:
 
